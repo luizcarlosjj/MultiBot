@@ -127,7 +127,7 @@
      <string notr="true">color: #fff; background-color: #3155b7</string>
     </property>
     <property name="text">
-     <string>Gerar QrCode</string>
+     <string>Sistema de Criptografia</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_4">
@@ -148,7 +148,7 @@
      <string notr="true">color: #fff; background-color: #3155b7</string>
     </property>
     <property name="text">
-     <string>Ver Perfil</string>
+     <string>Assistente Virtual Tina</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
